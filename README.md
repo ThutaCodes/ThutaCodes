@@ -72,6 +72,5 @@
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ThutaCodes.ThutaCodes&"  />
 </div>
-<img align="left" src="https://profile-counter.glitch.me/ThutaCodes/count.svg?"  />
 
 ###
