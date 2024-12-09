@@ -2,11 +2,11 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">About Me</h3>
 
 ###
 
-<p align="left">I'm Thuta.<br><br>- 🔭 I’m working as Back End Developer<br>- 📚 I'm currently pursuing a degree in Computer Science.<br>- ⚡ In my free time I watch movies.</p>
+<p align="left">I'm Thuta.<br><br>I like to watch movies</p>
 
 ###
 
@@ -17,19 +17,19 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="41" alt="python logo"  />
   <img width="19" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="41" alt="html5 logo"  />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="41" alt="html5 logo"  />
   <img width="19" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="41" alt="css3 logo"  />
   <img width="19" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="41" alt="javascript logo"  />
-  <img width="19" />
+  <img width="19" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="41" alt="nodejs logo"  />
   <img width="19" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="41" alt="vuejs logo"  />
-  <img width="19" />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="41" alt="vuejs logo"  />
+  <img width="19" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="41" alt="express logo"  />
   <img width="19" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="41" alt="php logo"  />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="41" alt="php logo"  />
   <img width="19" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="41" alt="java logo"  />
   <img width="19" />
@@ -38,26 +38,26 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="41" alt="amazonwebservices logo"  />
   <img width="19" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="41" alt="webstorm logo"  />
-  <img width="19" />
+  <img width="19" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="41" alt="mysql logo"  />
   <img width="19" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/moodle/moodle-original.svg" height="41" alt="moodle logo"  />
-  <img width="19" />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/moodle/moodle-original.svg" height="41" alt="moodle logo"  />
+  <img width="19" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="41" alt="npm logo"  />
   <img width="19" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="41" alt="opengl logo"  />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="41" alt="opengl logo"  />
   <img width="19" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="41" alt="typescript logo"  />
   <img width="19" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="41" alt="digitalocean logo"  />
   <img width="19" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="41" alt="django logo"  />
-  <img width="19" />
+  <img width="19" /> -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="41" alt="mongodb logo"  />
   <img width="19" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodewebkit/nodewebkit-original.svg" height="41" alt="nodewebkit logo"  />
   <img width="19" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="41" alt="ubuntu logo"  />
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="41" alt="ubuntu logo"  />
   <img width="19" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="41" alt="linux logo"  />
   <img width="19" />
@@ -85,7 +85,7 @@
   <img width="19" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="41" alt="slack logo"  />
   <img width="19" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="41" alt="wordpress logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="41" alt="wordpress logo"  /> -->
 </div>
 
 ###
