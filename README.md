@@ -2,17 +2,7 @@
   <img height="200" src="https://media1.tenor.com/m/t4WvV9Hfc5oAAAAd/showing-off-shaking-tail.gif"  />
 </div>
 
-###
-
-<h1 align="left">Hey 👋</h1>
-
-###
-
-<p align="left">My name is Thuta and I am a Back End Developer.</p>
-
-###
-
-<h2 align="left">About me</h2>
+<h1 align="left">About me</h1>
 
 ###
 
