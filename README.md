@@ -53,7 +53,7 @@
 
 ###
 
-<p align="left">Bachelor of Science in Computer Science </p> <br>
+<p align="left">Bachelor of Science in Computer Science </p>
 <p align="left"><i>University of the People</i> </p>
 
 
