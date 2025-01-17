@@ -1,62 +1,111 @@
-<div align="center">
-  <img height="200" src="https://media1.tenor.com/m/t4WvV9Hfc5oAAAAd/showing-off-shaking-tail.gif"  />
-</div>
+<br clear="both">
 
-<h1 align="left">About me</h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ThutaCodes.ThutaCodes&"  />
 
 ###
 
-<p align="left">I really enjoy watching movies, especially detective and mystery ones. There's something about the classic 1940s vibe that I love, like in Death on the Nile and Murder on the Orient Express. The way these films pull you into their intricate stories and suspenseful twists is just so captivating. I love the mix of drama, clever storytelling, and that old-school charm that keeps you guessing until the very end. It’s the kind of movie that makes you want to keep watching, trying to figure it all out!</p>
+<h1 align="left">Hey there 👋!</h1>
 
 ###
 
-<h2 align="left">I code with</h2>
+<p align="left">My name is Thuta, and I’m a passionate Back-End Developer and Software Engineer with a solid background in building secure and scalable web applications. With hands-on experience in access control, application security, and dynamic web systems, I am driven by innovation and the desire to create impactful solutions. I thrive in collaborative environments and am constantly exploring new technologies to innovate and deliver value.</p>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="30" alt="digitalocean logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ThutaCodes&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThutaCodes&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="30" alt="graphql logo"  />
 </div>
 
 ###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/thutacodes/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://www.instagram.com/thutatun13?igsh=amgxdWN6bG50YzE4" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://t.me/Dinottt13" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  <a href="https://www.linkedin.com/in/thutacodes/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
 
 ###
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=ThutaCodes.ThutaCodes&"  />
+<h3 align="left">Core Competencies:</h3>
+
+###
+
+<h4 align="left">Backend Technologies:</h4>
+
+###
+
+<p align="left">Extensive experience with MongoDB, MariaDB, and database schema design.</p>
+
+###
+
+<h4 align="left">Database Expertise:</h4>
+
+###
+
+<p align="left">Proficient in Node.js, Express.js, and MVC architecture for building scalable and maintainable applications.</p>
+
+###
+
+<h4 align="left">Application Security:</h4>
+
+###
+
+<p align="left">Skilled in implementing access control and secure coding practices to safeguard applications.</p>
+
+###
+
+<h4 align="left">API Development:</h4>
+
+###
+
+<p align="left">Experienced in building RESTful APIs for seamless communication between systems and SOAP APIs for secure transactions.</p>
+
+###
+
+<h4 align="left">Necessary Frontend Skills:</h4>
+
+###
+
+<p align="left">Familiar with React and Vue to integrate dynamic functionalities to complement backend systems.</p>
+
+###
+
+<img align="right" height="150" src="https://media1.tenor.com/m/t4WvV9Hfc5oAAAAd/showing-off-shaking-tail.gif"  />
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ThutaCodes&locale=en&mode=daily&theme=default&hide_border=true&border_radius=5" height="150" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=ThutaCodes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ThutaCodes/ThutaCodes/output/snake.svg" alt="Snake animation" />
 
 ###
