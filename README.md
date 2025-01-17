@@ -49,7 +49,7 @@
 
 ###
 
-<h3 align="left">📚 Education</h3>
+<h3 align="left">📚 Education</h2>
 
 ###
 
