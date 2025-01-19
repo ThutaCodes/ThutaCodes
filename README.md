@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">My name is Thuta, and I’m a passionate Back-End Developer and Software Engineer with a solid background in building secure and scalable web applications. With hands-on experience in access control, application security, and dynamic web systems, I am driven by innovation and the desire to create impactful solutions. I thrive in collaborative environments and am constantly exploring new technologies to innovate and deliver value.</p>
+<p align="left">My name is Thuta, and I’m a Software Engineer with a solid background in building secure and scalable back-end systems for mobile and web applications. With hands-on experience in access control, application security, and dynamic web systems, I am driven by innovation and the desire to create impactful solutions. I thrive in collaborative environments and am constantly exploring new technologies to innovate and deliver value.</p>
 
 ###
 
