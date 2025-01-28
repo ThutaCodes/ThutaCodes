@@ -53,7 +53,7 @@
 
 ###
 
-<h3 align="left">📚 Education</h3>
+<!--<h3 align="left">📚 Education</h3>
 
 ###
 
@@ -105,7 +105,7 @@
 
 <p align="left">Familiar with React and Vue to integrate dynamic functionalities to complement backend systems.</p>
 
-###
+###-->
 
 <img align="right" height="150" src="https://media1.tenor.com/m/t4WvV9Hfc5oAAAAd/showing-off-shaking-tail.gif"  />
 
