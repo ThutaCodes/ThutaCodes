@@ -1,130 +1,74 @@
-<br clear="both">
+<!-- Visitor Badge -->
+<p align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ThutaCodes.ThutaCodes" alt="visitor badge" />
+</p>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ThutaCodes.ThutaCodes&"  />
+# Hey there 👋!
 
-###
+<p align="center">
+  <!-- Computer Science Clip Art -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Computer_science.svg" width="150" alt="Computer Science Clip Art" />
+</p>
 
-<h1 align="left">Hey there 👋!</h1>
+## About Me
 
-###
+**Hi, I'm Thuta**  
+I'm a Software Engineer with a solid background in building secure and scalable back-end systems for mobile and web applications. I thrive on innovation, collaboration, and exploring new technologies to create impactful solutions.
 
-<h2 align="left">About Me</h2>
-
-###
-
-<p align="left">My name is Thuta, and I’m a Software Engineer with a solid background in building secure and scalable back-end systems for mobile and web applications. With hands-on experience in access control, application security, and dynamic web systems, I am driven by innovation and the desire to create impactful solutions. I thrive in collaborative environments and am constantly exploring new technologies to innovate and deliver value.</p>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="40" alt="digitalocean logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/moodle/moodle-original.svg" height="40" alt="moodle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  /> -->
-</div>
-
-###
-
-<div align="left"
-  <a href="https://www.linkedin.com/in/thutacodes/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<!--<h3 align="left">📚 Education</h3>
-
-###
-
-<p align="left">Bachelor of Science in Computer Science </p>
-<p align="left"><i>University of the People</i> </p>
-
-
-###
-
-<h3 align="left">🛠️ Core Competencies:</h3>
-
-###
-
-<h4 align="left">Backend Technologies:</h4>
-
-###
-
-<p align="left">Extensive experience with MongoDB, MariaDB, and database schema design.</p>
-
-###
-
-<h4 align="left">Database Expertise:</h4>
-
-###
-
-<p align="left">Proficient in Node.js, Express.js, and MVC architecture for building scalable and maintainable applications.</p>
-
-###
-
-<h4 align="left">Application Security:</h4>
-
-###
-
-<p align="left">Skilled in implementing access control and secure coding practices to safeguard applications.</p>
-
-###
-
-<h4 align="left">API Development:</h4>
-
-###
-
-<p align="left">Experienced in building RESTful APIs for seamless communication between systems and SOAP APIs for secure transactions.</p>
-
-###
-
-<h4 align="left">Necessary Frontend Skills:</h4>
-
-###
-
-<p align="left">Familiar with React and Vue to integrate dynamic functionalities to complement backend systems.</p>
-
-###-->
-
-<img align="right" height="150" src="https://media1.tenor.com/m/t4WvV9Hfc5oAAAAd/showing-off-shaking-tail.gif"  />
+## Tech Stack
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Thutacodes&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  /> <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThutaCodes&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="Google Cloud" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="GraphQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" height="40" alt="DigitalOcean" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="Slack" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/moodle/moodle-original.svg" height="40" alt="Moodle" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
 </div>
 
-###
+## GitHub Analytics
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <!-- GitHub Stats Card -->
+      <img src="https://github-readme-stats.vercel.app/api?username=ThutaCodes&show_icons=true&theme=dracula" alt="GitHub Stats" />
+    </td>
+    <td align="center">
+      <!-- Top Languages Card -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThutaCodes&layout=compact&theme=dracula" alt="Top Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <!-- Activity Graph -->
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=ThutaCodes&theme=react" alt="Activity Graph" />
+    </td>
+  </tr>
+</table>
+
+## GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ThutaCodes&theme=radical" alt="GitHub Trophies" />
+</p>
+
+## Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/thutacodes/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" alt="LinkedIn" />
+  </a>
+</p>
